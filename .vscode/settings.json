@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/bin/python2",
+    "C_Cpp.errorSquiggles": "Disabled"
+}
